@@ -59,7 +59,7 @@ cd /etc/nginx/conf.d/
 このフォルダ下のファイルを確認。
 
 ```jsx
-[ec2-user@ip-10-0-28-161 conf.d]$ ls
+[ec2-user@ip-10-0-24-261 conf.d]$ ls
 default.conf  default.conf_24.06  default.conf_bk  php-fpm.conf
 ```
 
